@@ -1,4 +1,4 @@
-package com.ehootu.demo.singleton;
+package com.ehootu.demo.a4singleton;
 
 /**
  * @author zhangyong

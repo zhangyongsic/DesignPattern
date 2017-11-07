@@ -1,7 +1,7 @@
-package com.ehootu.demo.factory.method;
+package com.ehootu.demo.a1_3factory.method;
 
-import com.ehootu.demo.factory.simple.Audi;
-import com.ehootu.demo.factory.simple.Car;
+import com.ehootu.demo.a1_3factory.simple.Audi;
+import com.ehootu.demo.a1_3factory.simple.Car;
 
 /**
  * @author zhangyong

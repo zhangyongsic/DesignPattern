@@ -1,4 +1,4 @@
-package com.ehootu.demo.factory.simple;
+package com.ehootu.demo.a1_3factory.simple;
 
 /**
  * @author zhangyong

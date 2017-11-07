@@ -1,4 +1,4 @@
-package com.ehootu.demo.singleton;
+package com.ehootu.demo.a4singleton;
 
 /**
  * 懒汉试 单列模式
